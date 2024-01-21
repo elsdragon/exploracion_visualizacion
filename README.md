@@ -1,7 +1,8 @@
-# exploracion_visualizacion
+## exploracion_visualizacion
 
-Practica del modulo de Exploracion y visualizacion de datos
-Bootcamp Big Data, machine learning e IA
+# Practica del modulo de Exploracion y visualizacion de datos
+
+# Bootcamp Big Data, machine learning e IA
 
 Dataset de kaggle sobre la evolución de los salarios en el mundo
 dentro de los puestos de trabajo del sector Data.
