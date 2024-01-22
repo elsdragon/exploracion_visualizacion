@@ -4,8 +4,12 @@
 
 # Bootcamp Big Data, machine learning e IA
 
+## PRACTICA
+
 Dataset de kaggle sobre la evolución de los salarios en el mundo
 dentro de los puestos de trabajo del sector Data.
+
+Archivo practice_salaries_data.pbix
 
 Dashboard que analiza los salarios medios en dolares según:
 
@@ -29,3 +33,30 @@ Dashboard que analiza los salarios medios en dolares según:
 
 También podemos interactuar seleccionando en alguno de los gráficos un valor determinado y ver como afecta al resto de
 visuales, como elegir un país en el vieual 2, un grupo en el visual 3 o alguno de los tipos de trabajo en el 4.
+
+# EXTRA PRACTICA
+
+En el archivo practica_ivr.pbix hemos importado de BigQuery una tabla realizada en el modulo de SQL avanzado, ETL y DataWarehouse ivr_summary1
+
+Dentro lo hemos dividido en dos Dashboard
+Dashboard1: Analiza la duración media de las llamadas de un centro de recepción de llamadas según diferentes factores.
+
+1. Visual de barras verticales que compara el promedio de tiempo de las llamadas con el resultado en 3 categorías y las divide también por idiomas.
+
+2. Visual de lineas con la evolución del promedio de tiempo de las llamadas agrupado por horas, con 3 lineas adicionales que marcan el máximo, el minimo y la mediana
+
+3. Tarjetas de información, el promedio total, el máximo y el mínimo de tiempo de las llamadas. El número varía en 3 colores según el valor, a más bajo verde, medio amarillo anaranjado y alto rojo.
+
+4. Un visual de barras horizontales que compara el promedio del tiempo de las llamadas separando por el idioma, el segmento de cliente y divididos a su vez por el vdn_aggregation de las llamadas.
+
+Dashboard2: Analizar el número de rellamadas en las 24h posteriores y previas del mismo número
+
+1. Visual en anillo para ver porcentaje de rellamadas en las 24h previas del mismo número se producen en 4 tramos horarios definidos previamente a lo largo de un día
+
+2. Visual en anillo para ver el porcentaje de rellamadas en las 24h siguientes del mismo número en los mismos 4 tramos horarios.
+
+3. Visual medidor donde vemos el número de casos de rellamadas en las 24h siguientes sobre el total de llamadas recibidas.
+
+4. Visual de barras en porcentaje apiladas para ver el porcentaje de rellamadas del mismo número en las 24h previas según el idioma y el tipo de identificación del cliente.
+
+5. Visual de barras en porcentaje apiladas para ver el porcentaje de rellamadas en las 24h posteriores según el idioma y el tipo de identificación del cliente.
