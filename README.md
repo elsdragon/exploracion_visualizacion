@@ -60,3 +60,16 @@ Dashboard2: Analizar el número de rellamadas en las 24h posteriores y previas d
 4. Visual de barras en porcentaje apiladas para ver el porcentaje de rellamadas del mismo número en las 24h previas según el idioma y el tipo de identificación del cliente.
 
 5. Visual de barras en porcentaje apiladas para ver el porcentaje de rellamadas en las 24h posteriores según el idioma y el tipo de identificación del cliente.
+
+## EXTRA PRACTICA 2
+
+Dataset de Kaggle sobre reservas y estancias en hoteles. Pretendemos estudiar el promedio de dias de estancia por fechas, tipo de cliente, tipo de hotel, estado final de la reserva, paises etc...
+
+1. Visual de barras del promedio de dias en el tiempo según si han sido estancias entre semana, fin de semana
+   y estancias totales.
+
+2. Visual Treemap del promedio de dias de estancia totales según el tpo de hotel y habitación.
+
+3. Visual de barras verticales según el tipo de hotel y el tipo de cliente.
+
+4. Visual de barras horizontales del promedio de dias según el estado final de la reserva y el canal de distribución. Tiene asociado un tooltip para ver en una visual de anillas su discriminación por apises.
