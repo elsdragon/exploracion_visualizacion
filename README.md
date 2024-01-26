@@ -1,10 +1,10 @@
-### exploracion_visualizacion
+# exploracion_visualizacion
 
 ## Practica del modulo de Exploracion y visualizacion de datos
 
 ## Bootcamp Big Data, machine learning e IA
 
-## PRACTICA
+### PRACTICA
 
 Dataset de kaggle sobre la evolución de los salarios en el mundo
 dentro de los puestos de trabajo del sector Data.
@@ -34,7 +34,7 @@ Dashboard que analiza los salarios medios en dolares según:
 También podemos interactuar seleccionando en alguno de los gráficos un valor determinado y ver como afecta al resto de
 visuales, como elegir un país en el vieual 2, un grupo en el visual 3 o alguno de los tipos de trabajo en el 4.
 
-# EXTRA PRACTICA
+### EXTRA PRACTICA
 
 En el archivo practica_ivr.pbix hemos importado de BigQuery una tabla realizada en el modulo de SQL avanzado, ETL y DataWarehouse ivr_summary1
 
@@ -61,7 +61,7 @@ Dashboard2: Analizar el número de rellamadas en las 24h posteriores y previas d
 
 5. Visual de barras en porcentaje apiladas para ver el porcentaje de rellamadas en las 24h posteriores según el idioma y el tipo de identificación del cliente.
 
-## EXTRA PRACTICA 2
+### EXTRA PRACTICA 2
 
 Dataset de Kaggle sobre reservas y estancias en hoteles. Pretendemos estudiar el promedio de dias de estancia por fechas, tipo de cliente, tipo de hotel, estado final de la reserva, paises etc...
 
