@@ -1,8 +1,8 @@
-## exploracion_visualizacion
+### exploracion_visualizacion
 
-# Practica del modulo de Exploracion y visualizacion de datos
+## Practica del modulo de Exploracion y visualizacion de datos
 
-# Bootcamp Big Data, machine learning e IA
+## Bootcamp Big Data, machine learning e IA
 
 ## PRACTICA
 
@@ -65,11 +65,12 @@ Dashboard2: Analizar el número de rellamadas en las 24h posteriores y previas d
 
 Dataset de Kaggle sobre reservas y estancias en hoteles. Pretendemos estudiar el promedio de dias de estancia por fechas, tipo de cliente, tipo de hotel, estado final de la reserva, paises etc...
 
-1. Visual de barras del promedio de dias en el tiempo según si han sido estancias entre semana, fin de semana
-   y estancias totales.
+1. Visual de barras del promedio de dias en el tiempo según si han sido estancias entre semana, fin de semana y estancias totales.
 
 2. Visual Treemap del promedio de dias de estancia totales según el tpo de hotel y habitación.
 
 3. Visual de barras verticales según el tipo de hotel y el tipo de cliente.
 
-4. Visual de barras horizontales del promedio de dias según el estado final de la reserva y el canal de distribución. Tiene asociado un tooltip para ver en una visual de anillas su discriminación por apises.
+4. Visual de barras horizontales del promedio de dias según el estado final de la reserva y el canal de distribución. Tiene asociado un tooltip para ver en una visual de anillas su discriminación por países
+
+He añadido un filtro de años con la fecha de llegada que afecta a todos los visuales.
